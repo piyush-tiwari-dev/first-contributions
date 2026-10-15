@@ -3,7 +3,7 @@ github: piyush-tiwari-dev
 name: Piyush Tiwari
 year: TE
 branch: EXCS
-knows: python
+knows: python, java
 wants: web development
 ---
 
